@@ -35,6 +35,10 @@ Logged-in users have access to their own task list. They can add new tasks, edit
 
 Users can download their task list as a CSV file. This feature allows users to have an offline copy of their tasks for reference.
 
+### Responsive Design
+
+The app features a responsive design, ensuring optimal functionality and visual appeal across various devices and screen sizes.
+
 ## Potential Improvements
 
 Given more time, there are several exciting features that could further enhance the Todo app
